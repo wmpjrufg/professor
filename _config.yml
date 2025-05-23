@@ -8,3 +8,5 @@ header_pages:
 author:
   name: GitHub User
   email: your-email@domain.com
+
+show_excerpts: true
