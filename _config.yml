@@ -1,12 +1,20 @@
 title: oi
 remote_theme: "jekyll/minima@1e8a445"
 
-header_pages:
+nav_bar:
   - about.md
-  - about/teste.md
+  - teste.md
+  - www.md
+  - eee.md
+  - fff.md
+  - ggg.md
+  - camisa.md
+  - joao.md
+  - carac.md
+  - wande.md
+  - dfdfdf.md
+  - case.md
 
 author:
   name: GitHub User
   email: your-email@domain.com
-
-show_excerpts: true
